@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Circle</string>
+    <string name="circle">Круг     по-умолчанию</string>
+    <string name="triangle">Треугольник</string>
+    <string name="square">Квадрат</string>
+    <string name="star">Звезда</string>
+    <string name="hexagon">Шестиугольник</string>
+    <string name="rhomb">Ромб</string>
+    <string name="start_text">Нажмите и удерживайте для начала</string>
+    <string name="not_enough">Не хватает монет - </string>
+    <string name="author">Автор - Богомаз Алексей</string>
+    <string name="money">Coins:</string>
+    <string name="score">Score:</string>
+    <string name="bestScore">Best:</string>
+    <string name="btn_triangle">Buy:  300c</string>
+    <string name="btn_square">Buy:  600c</string>
+    <string name="btn_star">Buy:  900c</string>
+    <string name="btn_hexagon">Buy: 1200c</string>
+    <string name="btn_rhomb">Buy: 1500c</string>
+    <string name="email">thorprojectstudio@gmail.com</string>
+</resources>
